@@ -3,6 +3,7 @@
 This Power BI project showcases a detailed analysis of **CBR (Call Bitrate)** statistics across different continents and countries. The dashboard presents insights on bitrate, density, population, and CBR distribution using a rich set of interactive visual elements and advanced features.
 
 ---
+![portfelio img](./portfelio.png)
 
 ## 📊 Key Highlights
 
