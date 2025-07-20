@@ -62,7 +62,7 @@ I'm a data analyst passionate about turning raw data into meaningful, actionable
 ## 📬 Contact
 
 For any questions, feedback, or collaboration opportunities:
-- LinkedIn: [YourLinkedInHere]
+- LinkedIn: [https://www.linkedin.com/in/zabita-quliyeva/]
 - Email: [YourEmailHere]
 
 ---
